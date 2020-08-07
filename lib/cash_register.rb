@@ -43,4 +43,8 @@ def void_last_transaction
 @last_amount.times do @items.pop
 end
 end
+
+CashRegister.new(20)
+
+
 end
