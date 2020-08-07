@@ -45,6 +45,6 @@ end
 end
 
 CashRegister.new(20)
-
+binding.pry
 
 end
